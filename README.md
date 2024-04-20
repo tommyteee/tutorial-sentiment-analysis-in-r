@@ -1,1 +1,1 @@
-This notebook is written an r for sentiment analysis. feel free to explore 
+This notebook is written in R for sentiment analysis. feel free to explore 
